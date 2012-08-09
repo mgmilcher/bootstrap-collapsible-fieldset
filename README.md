@@ -1,4 +1,4 @@
-Adapted to allow use of icons (Font Awesome) instead of text (+/-). 
+Adapted to allow use of icons [Font Awesome](http://fortawesome.github.com/Font-Awesome/) instead of text (+/-). 
 
 May very well be improved upon. I just fancied sharing my adaptation to get used to GitHub and contributing to open source ;)
 
